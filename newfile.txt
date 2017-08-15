@@ -1,1 +1,2 @@
-content of new file
+content of new file.
+NEw content to go only to my feature branch. 
